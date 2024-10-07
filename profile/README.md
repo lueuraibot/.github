@@ -1,5 +1,5 @@
 # Welcome to Lueur AI! 🌟
-Lueur AI makes content creation a breeze, giving you the power to create stunning reels with just one command. Whether you're looking for text-free visuals, dynamic captions, or immersive voiceovers, Lueur AI adjusts to meet your needs seamlessly. With flexible tools and credits, you can focus on your creativity—Lueur AI will take care of the rest! 🎨✨
+Lueur AI makes content creation a breeze, giving you the power to create stunning reels with just one command. Whether you're looking for text-free visuals, dynamic captions, or immersive voiceovers, Lueur AI adjusts to meet your needs seamlessly. With flexible tools and credits, you can focus on your creativity—Lueur AI will take care of the rest! 🎨✨ 
 
 ## Create Videos Like These! 🎥
 (*Due to GitHub compression, the quality has been reduced, but rest assured, Lueur AI delivers crisp 1080p videos!*)
